@@ -107,7 +107,7 @@ const LaptopPage: React.FC = () => {
             </Text>
           </div>
         </header>
-        {/* <div className="bg-gray-100 h-[1788px] md:h-[2052px] md:px-5 relative w-full">
+        <div className="bg-gray-100 h-[1788px] md:h-[2052px] md:px-5 relative w-full">
           <div className="h-[1788px] md:h-[2052px] m-auto w-full">
             <div className="flex flex-col h-full items-center justify-start m-auto w-full">
               <div className="flex flex-col md:gap-10 gap-[825px] items-center justify-start w-full">
@@ -412,8 +412,8 @@ const LaptopPage: React.FC = () => {
               </div>
             </div>
           </div>
-        </div> */}
-        {/* <div className="bg-white-A700 flex flex-col md:gap-10 gap-[69px] items-center justify-center max-w-[1440px] md:px-10 px-20 sm:px-5 py-24 w-full">
+        </div>
+        <div className="bg-white-A700 flex flex-col md:gap-10 gap-[69px] items-center justify-center max-w-[1440px] md:px-10 px-20 sm:px-5 py-24 w-full">
           <div className="relative w-full">
             <div className="flex md:flex-col flex-row md:gap-10 gap-16 items-center justify-center max-w-7xl mb-[47px] mt-auto w-full">
               <div className="flex flex-1 flex-col gap-10 items-start justify-start w-full">
@@ -530,8 +530,8 @@ const LaptopPage: React.FC = () => {
               </React.Fragment>
             ))}
           </List>
-        </div> */}
-        {/* <div className="bg-white-A700 md:h-[1483px] sm:h-[469px] h-[880px] md:px-5 relative w-[1440px] md:w-full">
+        </div>
+        <div className="bg-white-A700 md:h-[1483px] sm:h-[469px] h-[880px] md:px-5 relative w-[1440px] md:w-full">
           <div className="absolute bg-gray-900_04 md:h-[458px] h-[649px] inset-x-[0] mx-auto pl-5 py-5 top-[0] w-full">
             <Text
               className="absolute inset-x-[0] mx-auto md:text-5xl text-[144px] top-[18%] tracking-[-2.88px] uppercase w-max"
@@ -630,8 +630,8 @@ const LaptopPage: React.FC = () => {
               />
             </div>
           </div>
-        </div> */}
-        {/* <div className="bg-white-A700 flex flex-col md:gap-10 gap-16 items-center justify-start max-w-[1440px] md:px-10 px-20 sm:px-5 py-24 w-full">
+        </div>
+        <div className="bg-white-A700 flex flex-col md:gap-10 gap-16 items-center justify-start max-w-[1440px] md:px-10 px-20 sm:px-5 py-24 w-full">
           <Text
             className="text-4xl sm:text-[32px] md:text-[34px] text-blue_gray-900 text-center tracking-[-1.73px] uppercase w-auto"
             size="txtKrubBold36"
@@ -711,8 +711,8 @@ const LaptopPage: React.FC = () => {
               </div>
             </div>
           </div>
-        </div> */}
-        {/* <div className="bg-gray-900_02 flex flex-col items-center justify-start max-w-[1440px] md:px-10 px-20 sm:px-5 py-[124px] w-full">
+        </div>
+        <div className="bg-gray-900_02 flex flex-col items-center justify-start max-w-[1440px] md:px-10 px-20 sm:px-5 py-[124px] w-full">
           <div className="flex flex-col md:gap-10 gap-[74px] items-center justify-start max-w-[1398px] mx-auto w-full">
             <div className="flex md:flex-col flex-row md:gap-[41px] items-start justify-between w-full">
               <div
@@ -909,7 +909,7 @@ const LaptopPage: React.FC = () => {
               </div>
             </List>
           </div>
-        </div> */}
+        </div>
         {/* <div className="bg-gray-50 flex flex-col items-center justify-center md:px-10 sm:px-5 px-[300px] w-full">
           <div className="flex flex-col md:gap-10 gap-20 items-center justify-center py-[120px] w-auto md:w-full">
             <div className="flex flex-col items-center justify-start md:px-5 w-auto sm:w-full">
